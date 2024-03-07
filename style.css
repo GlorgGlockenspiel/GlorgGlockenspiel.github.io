@@ -1,0 +1,9 @@
+.pink {
+  background-image: linear-gradient(Orange, Chocolate);
+  text-align: center;
+  margin: 20px
+}
+
+body {
+  background-color: grey;
+}
