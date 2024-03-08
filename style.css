@@ -1,8 +1,8 @@
 .orange {
   background-image: linear-gradient(Orange, Chocolate);
   text-align: center;
-  margin: 35px
-  width: 35%
+  margin: 35px;
+  width: 35%;
 }
 
 body {
@@ -12,5 +12,5 @@ body {
 
 
 * {
-  color: white
+  color: white;
 }
