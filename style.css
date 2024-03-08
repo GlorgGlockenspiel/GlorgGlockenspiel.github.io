@@ -5,7 +5,6 @@
 }
 
 body {
-  margin: 100%;
   background-attachment: fixed;
   background-image: linear-gradient(grey,dimgrey);
 }
