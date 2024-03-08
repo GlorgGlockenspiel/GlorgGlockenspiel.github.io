@@ -1,12 +1,12 @@
 .orange {
   background-image: linear-gradient(Orange, Chocolate);
   text-align: center;
-  margin: 35px;
-  width: 35%;
+  padding: 50px;
 }
 
 body {
-  height: 100%;
+  margin: 100%;
+  background-attachment: fixed;
   background-image: linear-gradient(grey,dimgrey);
 }
 
