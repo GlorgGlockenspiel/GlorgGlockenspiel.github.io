@@ -2,10 +2,11 @@
   background-image: linear-gradient(Orange, Chocolate);
   text-align: center;
   margin: 35px
-  width: 65%
+  width: 35%
 }
 
 body {
+  height: 100%;
   background-image: linear-gradient(grey,dimgrey);
 }
 
