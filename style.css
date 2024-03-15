@@ -21,10 +21,10 @@
 }
 
 .planet {
+  animation: planetanim linear 1s infinite;
   padding: 15px;
   background-color: darkgray;
   border: 3px solid dimgrey;
-  animation: planetanim linear 1s infinite;
 }
 
 body {
