@@ -32,6 +32,7 @@ a {
 }
 
 table {
+  text-align: center;
   border:3px solid dimgrey;
   background-image: linear-gradient(springgreen, mediumspringgreen);
   padding: 5px;
