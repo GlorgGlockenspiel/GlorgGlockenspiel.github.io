@@ -1,3 +1,9 @@
+@keyframes planetanim {
+  0% {top: 0px;}
+  50% {top: 10px;}
+  100% {top: 0px;}
+}
+
 .orange {
   background-image: linear-gradient(orange, chocolate);
   text-align: center;
@@ -12,6 +18,13 @@
   padding: 5px;
   border: 3px solid dimgrey;
   background-image: linear-gradient(blue, midnightblue);
+}
+
+.planet {
+  padding: 15px;
+  background-color: darkgray;
+  border: 3px solid dimgrey;
+  animation: planetanim linear 1s infinite;
 }
 
 body {
