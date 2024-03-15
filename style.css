@@ -14,16 +14,6 @@
   background-image: linear-gradient(blue, midnightblue);
 }
 
-.planet {
-  animation: planetanim 3s infinite;
-}
-
-@keyframes planetanim {
-  0% {top: 0px;}
-  50% {top: 15px;}
-  100% {top: 0px;}
-}
-
 body {
   background-attachment: fixed;
   background-image: linear-gradient(grey, darkgrey);
@@ -39,4 +29,25 @@ a {
   text-decoration: none;
   font-weight: bold;
   font-style: italic;
+}
+
+table {
+  border:3px solid dimgrey;
+  background-image: linear-gradient(springgreen, mediumspringgreen);
+  padding: 5px;
+}
+
+th {
+  font-size: 23px;
+  padding: 8px;
+  border: 3px solid mediumseagreen;
+  background-color: dimgrey;
+  color: white;
+}
+
+tr, td {
+  padding: 7px;
+  background-color: mediumseagreen;
+  border: 2px solid seagreen;
+  text-align: center;
 }
