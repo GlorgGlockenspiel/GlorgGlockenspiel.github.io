@@ -16,8 +16,9 @@
 
 .planet {
   padding: 15px;
-  background-color: darkgray;
-  border: 3px solid dimgrey;
+  background-image: url("/awesome-library/images/spacebg/space07.png");
+  border: 5px solid dimgrey;
+  margin-left: 55px
 }
 
 body {
