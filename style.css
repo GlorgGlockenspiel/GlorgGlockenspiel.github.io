@@ -64,8 +64,6 @@ tr, td {
   padding-right: 15px;
   background-image: linear-gradient(Purple, DodgerBlue);
   border: 2px solid dimgrey;
-  max-width: 200px;
-  min-height: 200px;
   font-size: 18px;
   font-style: italic;
   color: white;
