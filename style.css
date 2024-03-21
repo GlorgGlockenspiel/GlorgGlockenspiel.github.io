@@ -17,8 +17,8 @@
 .planet {
   padding: 15px;
   border: 5px solid dimgrey;
-  margin-left: 55px
-  float: right;
+  margin-left: 55px;
+  float: left;
 }
 
 .planetInfo {
@@ -29,7 +29,7 @@
   font-size: 18px;
   font-style: italic;
   color: white;
-  float: left;
+  float: right;
 }
 
 body {
