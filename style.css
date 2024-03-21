@@ -18,6 +18,18 @@
   padding: 15px;
   border: 5px solid dimgrey;
   margin-left: 55px
+  float: right;
+}
+
+.planetInfo {
+  padding-left: 15px;
+  padding-right: 15px;
+  background-image: linear-gradient(Purple, DodgerBlue);
+  border: 2px solid dimgrey;
+  font-size: 18px;
+  font-style: italic;
+  color: white;
+  float: left;
 }
 
 body {
@@ -28,6 +40,7 @@ body {
   font-family: courier new;
   color: white;
   text-decoration: none;
+  float: right;
 }
 
 a {
@@ -57,15 +70,4 @@ tr, td {
   background-color: mediumseagreen;
   border: 2px solid seagreen;
   text-align: center;
-}
-
-.planetInfo {
-  padding-left: 15px;
-  padding-right: 15px;
-  background-image: linear-gradient(Purple, DodgerBlue);
-  border: 2px solid dimgrey;
-  font-size: 18px;
-  font-style: italic;
-  color: white;
-  margin-left: 100%;
 }
