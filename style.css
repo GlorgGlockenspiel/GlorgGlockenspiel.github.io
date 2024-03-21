@@ -67,5 +67,7 @@ tr, td {
   max-width: 200px;
   min-height: 200px;
   font-size: 18px;
+  font-style: italic;
   color: white;
+  margin-left: 50%;
 }
